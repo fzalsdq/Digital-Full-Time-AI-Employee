@@ -1,0 +1,64 @@
+2026-02-26 11:32:15,114 - FilesystemWatcher - INFO - FilesystemWatcher initialized
+2026-02-26 11:32:15,127 - FilesystemWatcher - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 11:32:15,127 - FilesystemWatcher - INFO - Check interval: 1s
+2026-02-26 11:32:15,156 - FilesystemWatcher - INFO - Watch path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Inbox
+2026-02-26 11:32:15,156 - FilesystemWatcher - INFO - Move to vault: True
+2026-02-26 11:32:15,244 - FilesystemWatcher - INFO - New file detected: test_document.txt (366 bytes)
+2026-02-26 11:32:15,255 - FilesystemWatcher - INFO - Moved file to vault: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Files\test_document.txt
+2026-02-26 11:59:57,021 - FilesystemWatcher - INFO - FilesystemWatcher initialized
+2026-02-26 11:59:57,022 - FilesystemWatcher - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 11:59:57,022 - FilesystemWatcher - INFO - Check interval: 1s
+2026-02-26 11:59:57,023 - FilesystemWatcher - INFO - Watch path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Inbox
+2026-02-26 11:59:57,023 - FilesystemWatcher - INFO - Move to vault: True
+2026-02-26 11:59:57,075 - FilesystemWatcher - INFO - Loaded 1 previously processed files
+2026-02-26 11:59:57,091 - FilesystemWatcher - INFO - New file detected: test_document_2.txt (400 bytes)
+2026-02-26 11:59:57,093 - FilesystemWatcher - INFO - Moved file to vault: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Files\test_document_2.txt
+2026-02-26 13:13:24,301 - FilesystemWatcher - INFO - FilesystemWatcher initialized
+2026-02-26 13:13:24,326 - FilesystemWatcher - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 13:13:24,327 - FilesystemWatcher - INFO - Check interval: 5s
+2026-02-26 13:13:24,328 - FilesystemWatcher - INFO - Watch path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Inbox
+2026-02-26 13:13:24,328 - FilesystemWatcher - INFO - Move to vault: True
+2026-02-26 13:13:24,477 - FilesystemWatcher - INFO - Loaded 2 previously processed files
+2026-02-26 13:13:24,477 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-02-26 13:13:24,479 - FilesystemWatcher - INFO - Press Ctrl+C to stop
+2026-02-26 13:13:24,493 - FilesystemWatcher - INFO - New file detected: Test-1.txt (115 bytes)
+2026-02-26 13:13:24,493 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-02-26 13:13:24,495 - FilesystemWatcher - INFO - Moved file to vault: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Files\Test-1.txt
+2026-02-26 13:13:24,534 - FilesystemWatcher - INFO - Created action file: FILE_test_1_txt_2026-02-26.md
+2026-02-26 13:15:37,005 - FilesystemWatcher - INFO - FilesystemWatcher stopped by user
+2026-02-26 13:15:42,500 - FilesystemWatcher - INFO - FilesystemWatcher initialized
+2026-02-26 13:15:42,500 - FilesystemWatcher - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 13:15:42,500 - FilesystemWatcher - INFO - Check interval: 5s
+2026-02-26 13:15:42,501 - FilesystemWatcher - INFO - Watch path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Inbox
+2026-02-26 13:15:42,501 - FilesystemWatcher - INFO - Move to vault: True
+2026-02-26 13:15:42,525 - FilesystemWatcher - INFO - Loaded 3 previously processed files
+2026-02-26 13:15:42,525 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-02-26 13:15:42,526 - FilesystemWatcher - INFO - Press Ctrl+C to stop
+2026-02-26 13:17:44,209 - FilesystemWatcher - INFO - FilesystemWatcher stopped by user
+2026-02-26 14:25:12,198 - FilesystemWatcher - INFO - FilesystemWatcher initialized
+2026-02-26 14:25:12,233 - FilesystemWatcher - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 14:25:12,237 - FilesystemWatcher - INFO - Check interval: 5s
+2026-02-26 14:25:12,239 - FilesystemWatcher - INFO - Watch path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Inbox
+2026-02-26 14:25:12,241 - FilesystemWatcher - INFO - Move to vault: True
+2026-02-26 14:25:12,318 - FilesystemWatcher - INFO - Loaded 3 previously processed files
+2026-02-26 14:25:12,337 - Orchestrator - INFO - Orchestrator initialized
+2026-02-26 14:25:12,338 - Orchestrator - INFO - Vault path: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault
+2026-02-26 14:25:13,075 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:25:43,101 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:26:13,126 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:26:43,152 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:27:13,178 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:27:23,230 - FilesystemWatcher - INFO - New file detected: FILE_test_1_txt_2026-02-26.md (945 bytes)
+2026-02-26 14:27:23,242 - FilesystemWatcher - INFO - Moved file to vault: E:\My-Projects\Agentic-AI\Personal-AI-Employee\Digital-Full-Time-AI-Employee\AI_Employee_Vault\Files\FILE_test_1_txt_2026-02-26.md
+2026-02-26 14:27:23,343 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:27:43,366 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:28:13,391 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:28:43,418 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:29:13,442 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:29:43,479 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:30:13,510 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:30:43,536 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:31:13,558 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:31:43,582 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:32:13,608 - Orchestrator - INFO - Dashboard updated
+2026-02-26 14:32:43,632 - Orchestrator - INFO - Dashboard updated

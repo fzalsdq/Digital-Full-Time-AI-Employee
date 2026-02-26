@@ -1,0 +1,16 @@
+Test Document 2 - Content Preview Test
+
+This is a second test document to verify that the content preview works correctly.
+
+## Key Points
+1. File should be moved to Files folder
+2. Content preview should be captured BEFORE moving
+3. Action file should show the content
+
+## Test Data
+- Name: Test Document 2
+- Date: 2026-02-26
+- Purpose: Verify content preview functionality
+
+---
+End of test document

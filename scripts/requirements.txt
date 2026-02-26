@@ -1,0 +1,17 @@
+# AI Employee - Bronze Tier
+# Python Dependencies
+
+# Core dependencies
+watchdog>=4.0.0      # File system monitoring
+psutil>=5.9.0        # Process monitoring for orchestrator
+
+# Optional dependencies for future tiers
+# google-api-python-client>=2.100.0  # Gmail API (Silver tier)
+# google-auth-httplib2>=0.1.0        # Gmail authentication
+# google-auth-oauthlib>=1.0.0        # OAuth for Gmail
+# playwright>=1.40.0                 # Browser automation (Silver tier)
+
+# Development dependencies
+# pytest>=7.0.0                      # Testing
+# black>=23.0.0                      # Code formatting
+# flake8>=6.0.0                      # Linting
